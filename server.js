@@ -1,8 +1,10 @@
 const express = require("express");
 const fs = require("fs");
+const cors = require("cors");  // ✅ import cors
 const app = express();
 const PORT = process.env.PORT || 3000;
 
+app.use(cors());               // ✅ enable all origins
 app.use(express.json());
 
 // Read data

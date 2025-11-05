@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/vasanthkumar7/my-json-server#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "express": "^5.1.0"
   }
 }
