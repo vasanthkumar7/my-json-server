@@ -1,3 +1,19 @@
 {
-  "name": "Vasanth"
+    "todaySales": "0.00",
+    "monthSales": "0.00",
+    "yearSales": "0.00",
+    "salesPerMonth": [
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0,
+        0
+    ]
 }
